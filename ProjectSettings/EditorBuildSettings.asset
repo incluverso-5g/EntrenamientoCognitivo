@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/EscenasNeuronUp/MenuPrincipal.unity
+    guid: f10638b4f831188429877a7ce10d66eb
+  - enabled: 1
+    path: Assets/EscenasNeuronUp/Cafeteria_Tarea_1.unity
+    guid: 9ecb7c46df4e26f429c08e2275cda83b
+  - enabled: 1
+    path: Assets/EscenasNeuronUp/Supermercado_Tarea_2.unity
+    guid: 12728e56d42258048aa88f9d9219f2be
+  - enabled: 1
+    path: Assets/EscenasNeuronUp/Supermercado_Entrenamiento.unity
+    guid: 436068220780fa54399ff666e9c720f3
+  - enabled: 1
+    path: Assets/EscenasNeuronUp/Cafeteria_Entrenamiento.unity
+    guid: c701dde0783ca804e9d4895de2c0da98
+  - enabled: 1
+    path: Assets/EscenasNeuronUp/Cafeteria_Tarea_2.unity
+    guid: 857fc425ef6c2184ba75d9d433b0869f
+  - enabled: 1
+    path: Assets/EscenasNeuronUp/EyeTrackingTest.unity
+    guid: 3b7498ff2b065d54094d9c5e160ecabb
+  - enabled: 1
+    path: Assets/EscenasNeuronUp/Supermercado_Tarea_1.unity
+    guid: 0fc2ed302d38144439cc8dfb10969103
+  - enabled: 1
+    path: Assets/EscenasNeuronUp/Escenario_Relajante.unity
+    guid: c1bb3c3ac09218e48a05bb61fa6e8e3c
+  - enabled: 0
+    path: Assets/EscenasNeuronUp/Cafeteria_Tarea_1 1.unity
+    guid: 2531637d1bdbaf6488902a45cb0111af
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: f821716c8b7c4bb48b31a3e7d28327cf,
+      type: 2}
+    com.htc.upm.wave.xrsdk.xrsettings: {fileID: 11400000, guid: f23f26bf007cd074abc6512881fca06c,
+      type: 2}
